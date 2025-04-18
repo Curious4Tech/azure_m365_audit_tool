@@ -1,5 +1,3 @@
-# azure_m365_audit_tool
-
 # Azure & Microsoft 365 Privilege Audit Tool 🛡️
 
 A comprehensive security audit tool for Azure and Microsoft 365 environments, providing deep insights into permissions, roles, and security configurations across your cloud infrastructure.
@@ -186,9 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@YourTwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/azure-m365-privilege-audit](https://github.com/yourusername/azure-m365-privilege-audit)
+Azizou GNANKPE - [@LinkedIn](https://www.linkedin.com/in/azizou-gnankpe/)
 
 ---
 ⭐️ If this tool helped you, consider giving it a star!
