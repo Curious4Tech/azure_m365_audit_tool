@@ -54,8 +54,8 @@ Python 3.7 or higher
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/azure-m365-privilege-audit.git
-cd azure-m365-privilege-audit
+git clone https://github.com/Curious4Tech/azure_m365_audit_tool.git
+cd azure_m365_audit_tool
 ```
 
 2. Create and activate virtual environment:
