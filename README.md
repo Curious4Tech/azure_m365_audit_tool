@@ -77,6 +77,51 @@ cp .env.example .env
 ```
 
 ## ⚙️ Configuration
+## 🔑 Application Registration Setup
+
+### Azure AD App Registration
+
+1. **Create New Registration**
+   ```plaintext
+   Navigate to:
+   Azure Portal → Azure Active Directory → App registrations → New registration
+   ```
+   - Name: Azure M365 Privilege Audit Tool
+   - Supported account type: Single tenant
+   - Redirect URI: (Leave blank)
+
+2. **Required API Permissions**
+
+   #### Microsoft Graph Permissions
+   ```plaintext
+   Application Permissions:
+   
+   # Directory Permissions
+   - Directory.Read.All
+   - Directory.ObjectRead.All
+   - RoleManagement.Read.All
+   
+   # Identity Permissions
+   - IdentityRiskEvent.Read.All
+   - Identity.Risk.Read.All
+   
+   # Security Permissions
+   - SecurityEvents.Read.All
+   - SecurityAlert.Read.All
+   
+   # Microsoft 365 Services
+   - Exchange.ManageAsApp
+   - SharePoint.Read.All
+   - Sites.Read.All
+   - Team.Read.All
+   - TeamSettings.Read.All
+   - User.Read.All
+   - Group.Read.All
+   - Application.Read.All
+   - Policy.Read.All
+   ```
+
+![image](https://github.com/user-attachments/assets/8bc47641-8339-4bae-b056-dc14cb41379c)
 
 Create a `.env` file with the following variables:
 
