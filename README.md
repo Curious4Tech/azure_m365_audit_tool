@@ -95,6 +95,10 @@ OUTPUT_DIR=./audit_results
 Run the tool with different audit scopes:
 
 ```bash
+
+# Ensure you're logged into Azure:
+ az login
+
 # Full audit (Azure + M365)
 python azure_m365_audit.py full
 
