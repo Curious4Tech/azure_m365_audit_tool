@@ -1,0 +1,10 @@
+azure-identity 
+azure-mgmt-authorization 
+azure-mgmt-resource 
+azure-mgmt-subscription 
+msgraph-sdk 
+requests 
+pandas 
+openpyxl
+azure-cli-core
+dotenv
