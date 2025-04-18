@@ -37,7 +37,7 @@ A comprehensive security audit tool for Azure and Microsoft 365 environments, pr
 ```bash
 # Required Python version
 Python 3.7 or higher
-
+Higly recommended to use Python 3.10 
 # Required Azure Permissions
 - Reader role at subscription level
 - Microsoft Graph API permissions
