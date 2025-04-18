@@ -55,7 +55,7 @@ Higly recommended to use Python 3.10
 1. Clone the repository:
 ```bash
 git clone https://github.com/Curious4Tech/azure_m365_audit_tool.git
-cd azure_m365_audit_tool
+cd azure_m365_audit_tool/Azure_M365_Audit
 ```
 
 2. Create and activate virtual environment:
