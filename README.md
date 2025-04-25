@@ -7,6 +7,10 @@ A comprehensive security audit tool for Azure and Microsoft 365 environments, pr
 ![Azure](https://img.shields.io/badge/Azure-supported-0089D6)
 ![M365](https://img.shields.io/badge/M365-supported-00A4EF)
 
+
+![image](https://github.com/user-attachments/assets/2c0955a2-0783-492c-b760-4483f3a90711)
+
+
 ## 🚀 Features
 
 - **Azure Security Auditing**
