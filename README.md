@@ -241,4 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Azizou GNANKPE - [@LinkedIn](https://www.linkedin.com/in/azizou-gnankpe/)
 
 ---
-⭐️ If this tool helped you, consider giving it a star!
+## ✨ Author
+
+Created by **`Azizou GNANKPE`** - [@Curious4Tech](https://www.linkedin.com/in/azizou-gnankpe/)
